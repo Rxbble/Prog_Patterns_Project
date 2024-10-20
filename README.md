@@ -10,7 +10,7 @@ The Gym Management System is an online platform designed to manage member and em
 - Notifications: Members can receive notifications from the gym system, such as updates, announcements, and alerts.
 - Report Issues: Members can report issues to the gym administration through the system.
 
-###Employee
+## Employee
 - Login: Employees can log in to access the system.
 - Manage Members: Employees can add, update, or remove member information, as well as manage their membership details and balances.
 - Process Payments: Employees can process membership payments made by members.
